@@ -1,0 +1,9 @@
+# virtual environment and caches
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# never commit secrets
+.env
+*.key
